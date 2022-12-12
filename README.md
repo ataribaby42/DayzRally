@@ -27,7 +27,7 @@ All loot spawning, events, zombies and animals shold be completly disabled. Only
 ## FINAL NOTES
 Script is provided as is. It is up to you to figure out how to build your rally track or how to set-up server zombie free.
 
-Here is example of our Rally event
+Here is example of our Rally event:
 
 https://www.youtube.com/watch?v=TapIEQ6JD_I
 
