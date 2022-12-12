@@ -36,5 +36,5 @@ https://www.youtube.com/watch?v=jufVHhrzgUY
 Have fun!
 
 ## CREDITS
-ataribaby42 - Idea & Code 
-twitch.tv/lonertao - Ideas & Track building
+**ataribaby42** - Idea & Code </br>
+**twitch.tv/lonertao** - Ideas & Track building
