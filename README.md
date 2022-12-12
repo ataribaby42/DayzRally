@@ -20,7 +20,7 @@ Simply look into provided init.c what is based on vanilla Dayz 1.19 Chernarus mi
 **RallyCPs.Insert(new RallyCP("Finish", "F", Vector(10190.599609, 24.241400, 2543.530029), 10));** - Finish point definition coord and trigger radius in meters.
 
 ### Recomendations
-We used VPPAdminTools to build race track and used color barrells for start, finish and CPs. Seachest objects was used to get wach point coords to be filled into script.
+We used VPPAdminTools to build race track and used color barrells for start, finish and CPs. Seachest objects was used to get each point coords to be filled into script.
 
 All loot spawning, events, zombies and animals shold be completly disabled. Only objects used as cars, car parts, rally scenery or needed equipement should be in types.xml with nominal and min set to 0 just have lifetime defined to keep objects from despawning.
 
